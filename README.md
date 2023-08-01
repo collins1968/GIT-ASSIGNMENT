@@ -1,5 +1,5 @@
 # Git Assignment
-In this assignment i have created several  branches where i am editing the same file index.html and adding a new line of code in each branch and merging in the master branch
+In this assignment i have created several  branches where I have edited the same file index.html in all the branches differently and merged into the master branch
 ## Some of the git commands used
 - create a new branch and switch `git checkout -b branchA`
 - Switch to master `git checkout master`
